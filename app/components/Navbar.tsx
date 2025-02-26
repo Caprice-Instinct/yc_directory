@@ -28,7 +28,7 @@ const Navbar = async () => {
                   await signOut();
                 }}
               >
-                <button>
+                <button type="submit">
                   <span>Log out</span>
                 </button>
               </form>
