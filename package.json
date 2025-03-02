@@ -35,6 +35,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-is": "^19.0.0",
+    "react-toastify": "^11.0.5",
     "sanity": "^3.77.2",
     "sanity-plugin-markdown": "^5.0.0",
     "server-only": "^0.0.1",
