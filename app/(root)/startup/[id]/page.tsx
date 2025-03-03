@@ -32,7 +32,7 @@ export default async function Page({ params }: { params: { id: string } }) {
         <img
           src={post.image}
           alt="thumbnail"
-          className="w-ful h-auto rounded-xl"
+          className="w-full h-auto rounded-xl"
         />
         <div className="space-y-5 mt-10 max-w-4xl mx-auto">
           <div className="flex-between gap-5">
